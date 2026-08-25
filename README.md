@@ -57,11 +57,11 @@ This repository is the official home for APK releases, changelogs, issue trackin
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/home.png" width="200"/>
-  <img src="assets/screenshots/collections.png" width="200"/>
-  <img src="assets/screenshots/search.png" width="200"/>
-  <img src="assets/screenshots/preview.png" width="200"/>
-  <img src="assets/screenshots/favorites.png" width="200"/>
+  <img src="assets/screenshots/home.jpeg" width="200"/>
+  <img src="assets/screenshots/collections.jpeg" width="200"/>
+  <img src="assets/screenshots/search.jpeg" width="200"/>
+  <img src="assets/screenshots/preview.jpeg" width="200"/>
+  <img src="assets/screenshots/favorites.jpeg" width="200"/>
 </p>
 
 ---
